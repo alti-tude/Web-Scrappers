@@ -1,4 +1,4 @@
-required modules
-	- requests
-	- bs4
-	- csv
+**required modules**    
+	- requests  
+	- bs4  
+	- csv  
